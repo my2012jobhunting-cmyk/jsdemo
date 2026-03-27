@@ -72,4 +72,4 @@ console.log("sum(1,2,3,4,5):", sum(1, 2, 3, 4, 5));
 console.log("parseID(123):", parseID(123));
 console.log("parseID('abc'):", parseID("abc"));
 
-export { add, multiply, greet, introduce, sum, calculate, parseID };
+export { add, multiply, greet, introduce, sum, parseID };
