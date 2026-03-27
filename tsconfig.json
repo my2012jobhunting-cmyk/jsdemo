@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "CommonJS",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "declaration": true,
+    "sourceMap": true,
+    "moduleResolution": "bundler",
+    "ignoreDeprecations": "6.0"
+  },
+  "include": ["*.ts"],
+  "exclude": ["node_modules", "dist"]
+}
