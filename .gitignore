@@ -1,0 +1,23 @@
+# TypeScript 编译产物
+*.js
+*.js.map
+*.d.ts
+dist/
+
+# node_modules
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+# 系统文件
+.DS_Store
+
+# 日志
+*.log
+npm-debug.log*
+
+# 环境变量
+.env
+.env.local
